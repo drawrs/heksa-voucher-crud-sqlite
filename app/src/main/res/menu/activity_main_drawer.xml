@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_view_voucher"
+            android:icon="@drawable/ic_view_list_black_24dp"
+            android:title="Data Voucher" />
+        <item
+            android:id="@+id/nav_polis"
+            android:icon="@drawable/ic_playlist_add_black_24dp"
+            android:title="Tambah polis" />
+        <item
+            android:id="@+id/nav_voucher"
+            android:icon="@drawable/ic_playlist_add_black_24dp"
+            android:title="Tambah Voucher" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_outline_black_24dp"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">HeksaVoucher</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_polis_hint">No polis</string>
+    <string name="premi_hint">Nilai premi</string>
+    <string name="pertanggungan_hint">Nilai pertanggungan</string>
+    <string name="tgl_mulai_hint">Tanggal mulai</string>
+    <string name="tgl_akhir_hint">Tanggal akhir</string>
+    <string name="btn_simpan_polis">Simpan</string>
+    <string name="et_nama_user">Nama tertanggung</string>
+    <string name="txt_usia_user">Umur</string>
+    <string name="txt_no_ktp">No KTP</string>
+    <string name="txt_kode_pos">Kode POS</string>
+    <string name="txt_prov">Provinsi</string>
+    <string name="txt_kec">Kecamatan</string>
+    <string name="txt_kab">Kabupaten</string>
+    <string name="txt_no_telp">Nomor HP</string>
+    <string name="et_tgl_lahir">Tanggal lahir</string>
+    <string name="txt_kode_ref">Kode Referal</string>
+    <string name="txt_ahli_waris">Ahli Waris</string>
+    <string name="_2017_10_31_2018_12_16">2017/10/31 - 2018/12/16</string>
+    <string name="no_polis_1011">NO POLIS : 1011</string>
+    <string name="no_ktp_100101002003">No.KTP : 100101002003</string>
+    <string name="usia_17_thn">Usia : 17 thn</string>
+    <string name="premi_up_rp_21_000_00">Premi Up : Rp. 21.000,00</string>
+    <string name="status_aktif">Status : aktif</string>
+    <string name="pilih"><u>pilih</u></string>
+    <string name="lihat"><u>lihat</u></string>
+    <string name="belum_dipilih">(belum dipilih)</string>
+
+    <string-array name="kelamin_array">
+        <item>Pilih jenis kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="hubungan_array">
+        <item>Anak</item>
+        <item>Suami/Istri</item>
+        <item>Orang Tua</item>
+        <item>Saudara Kandung</item>
+    </string-array>
+</resources>

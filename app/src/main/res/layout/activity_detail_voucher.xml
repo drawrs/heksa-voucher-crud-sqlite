@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#eee"
+    tools:context="com.khilman.www.heksavoucher.view.DetailVoucherActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="#FFF"
+            android:orientation="vertical">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:stretchColumns="1">
+                <TableRow>
+                    <TextView
+                        android:text="NO POLIS"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Haha"
+                        android:gravity="left"
+                        android:id="@+id/tvNoPolis"
+                        android:padding="3dip" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:text="PREMI UP"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvNilaiPremi"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="MULAI ASURANSI"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvTglMulai"
+                        android:padding="3dip" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:text="AKHIR ASURANSI"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:id="@+id/tvTglAkhir"
+                        android:gravity="left"
+                        android:padding="3dip" />
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:text="DATA TERTANGGUNG"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:padding="3dip" />
+
+                </TableRow>
+
+                <TableRow>
+                    <TextView
+                        android:text="Nama"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvNamaUser"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Jenis Kelamin"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvJenisKelamin"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Tanggal Lahir"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvTglLahir"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Usia"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvUsia"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="NO KTP"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvNoKtp"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="No Telp"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvNoTelp"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Ahli Waris"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvAhliWaris"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Hubungan"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:id="@+id/tvHubungan"
+                        android:gravity="left"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Referal"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:id="@+id/tvKdRef"
+                        android:gravity="left"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Kode Pos"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvKdPos"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Provinsi"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvProv"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Kecamatan"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvKec"
+                        android:padding="3dip" />
+                </TableRow>
+                <TableRow>
+                    <TextView
+                        android:text="Kabupaten"
+                        android:padding="3dip" />
+                    <TextView
+                        android:text="Jakarta"
+                        android:gravity="left"
+                        android:id="@+id/tvKab"
+                        android:padding="3dip" />
+                </TableRow>
+
+            </TableLayout>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:text="FILE UPLOAD"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:background="#FFF"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="6dp"
+                    android:text="Foto Nasabah :"
+                    android:textSize="16sp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textStyle="bold"
+                        android:id="@+id/cdaFotoNs"
+                        android:text="@string/belum_dipilih"  />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_weight="2.5">
+
+                        <TextView
+                            android:id="@+id/lihatFotoNsa"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:text="@string/lihat" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="6dp"
+                    android:text="Foto KTP Nasabah :"
+                    android:textSize="16sp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:id="@+id/cdKtpaNasabah"
+                        android:textStyle="bold"
+                        android:text="@string/belum_dipilih"  />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_weight="2.5">
+
+                        <TextView
+                            android:id="@+id/lihatFotoKtpa"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:text="@string/lihat" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="6dp"
+                    android:text="Foto Tiket Depan :"
+                    android:textSize="16sp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textStyle="bold"
+                        android:id="@+id/cdaTiketDp"
+                        android:text="@string/belum_dipilih" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_weight="2.5">
+
+                        <TextView
+                            android:id="@+id/lihatFotoTiketDpa"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:text="@string/lihat" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:paddingLeft="6dp"
+                    android:text="Foto Tiket Belakang :"
+                    android:textSize="16sp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:id="@+id/cdaTiketBl"
+                        android:textStyle="bold"
+                        android:text="@string/belum_dipilih" />
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:layout_weight="2.5">
+
+                        <TextView
+                            android:id="@+id/lihatFotoTiketBla"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="3"
+                            android:text="@string/lihat" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:orientation="horizontal"-->
+            <!--android:layout_height="wrap_content">-->
+            <!--<android.support.v7.widget.RecyclerView-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:id="@+id/filesList"></android.support.v7.widget.RecyclerView>-->
+
+        <!--</LinearLayout>-->
+    </LinearLayout>
+</ScrollView>

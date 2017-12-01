@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/khilman/android-studio-3.0/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib-jre7/1.1.51/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/2dc06f1c51ce23189c6b4286e49e66d8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sqlite/0.10.1/25e1016d60078429e10b834ce85ef03e40b6c1ad/anko-sqlite-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25e1016d60078429e10b834ce85ef03e40b6c1ad">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.0/2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1/rxjava-2.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/b7138990d456d6c3693da9c55dc72f91/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="62c85d61c1ecd732dfe0c57e050d179ed85588bf">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7-commons/0.10.1/dcc19fb69c6107d999eccd277df027c44eb62dec/anko-appcompat-v7-commons-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dcc19fb69c6107d999eccd277df027c44eb62dec">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/0.15/b1fece43d4273e8941d01784d6f64c7486da1990/kotlinx-coroutines-android-0.15.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1fece43d4273e8941d01784d6f64c7486da1990">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.1/bcf698b95e7e1d480a65d049af705286f2776a81/anko-commons-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bcf698b95e7e1d480a65d049af705286f2776a81">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4-commons/0.10.1/50e8e6bf5e0fe29b7bcb0009e104ae2ede7d8486/anko-support-v4-commons-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50e8e6bf5e0fe29b7bcb0009e104ae2ede7d8486">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/library-2.1.3.aar/04fece893cdf9516501154b85e1c1d19/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.0.aar/6959824e72ed80271decbe220582e051/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7404d217654969776b5fa566df9a7f2c1b1c337">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-coroutines/0.10.1/eb0b9b3d96c4b6dcb9d34307323c6f17b7690117/anko-coroutines-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb0b9b3d96c4b6dcb9d34307323c6f17b7690117">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/44d33dafca1ba7141e0f02cdc1c31847/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/easypermissions-1.0.1.aar/e2f90adcf6693fb9e4435fe9046e5dd9/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="932078b2f30750bc5377ca4df58f3426c8cc875b">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khilman/android-studio-3.0/gradle/m2repository/org/jetbrains/kotlin/kotlin-stdlib/1.1.51/kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.0.aar/f2d582212a1cbdd07b8413b8c322f956/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63b9cc88144f20f869dbd7dfb72a082000a57997">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/compressor-2.1.0.aar/b23c7ad8e7f41bd1ac2c49cad458c933/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/8b284d1806061818ab7d1c240a21b968/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk25/0.10.1/19570d51e979aca5bd5e57d4e8cf7ffa29aa3b92/anko-sdk25-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="19570d51e979aca5bd5e57d4e8cf7ffa29aa3b92">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/transition-27.0.0.aar/b6e3d7025293574138c04b04b1efd134/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4acee87c1f3801ff4162b2f8d5b3cf999007ee6f">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/ab1b1476d52f947e00a4d3a481450d16/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/3c8fd79b4947bfbc02744643a4c12348/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4/0.10.1/9d6b830b27dd040cfcfd17beb731f8d1e701df5a/anko-support-v4-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d6b830b27dd040cfcfd17beb731f8d1e701df5a">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.0.aar/10f63fdc283fcb82f2434694105d7af5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f73f6af8b32299bb364178188dcfe50379ed0da7">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/d50672bd83524c44119b4745354a3f96/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7/0.10.1/f993469c89aed05174afe18c0697e9bc9b4f5163/anko-appcompat-v7-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f993469c89aed05174afe18c0697e9bc9b4f5163">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-appcompat-v7-coroutines/0.10.1/fc4a1f49407f96df5c464163291d38c5d305c3e0/anko-appcompat-v7-coroutines-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc4a1f49407f96df5c464163291d38c5d305c3e0">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/design-27.0.0.aar/7e015875d235c6a83a5b844949f2c1ed/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8dd77dd9462bc957cbc901cbe9d6c06047f8216">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/0.15/5f0e2a96538d4ddc421ed042799e825016875f29/kotlinx-coroutines-core-0.15.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f0e2a96538d4ddc421ed042799e825016875f29">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/78f08b8a20bdc2779df0a4da5c4c70cc/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/8f8b21a4fe7d8ad9ebbe067582dee9ad/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk25-coroutines/0.10.1/1a5b412981216d9907b5b99f1d2aa6bb7d4bbef0/anko-sdk25-coroutines-0.10.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a5b412981216d9907b5b99f1d2aa6bb7d4bbef0">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/bb81b0a9c403d6c98499565a2364f590/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/khilman/android-studio-3.0/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/home/khilman/Ujian/HeksaVoucher/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+
+</items>
